@@ -1,6 +1,6 @@
 # AI Email Sender
 
-An AI-powered tool that writes and sends personalized emails automatically.
+AI-powered mail server that generates and sends personalized emails using Google Gemini API and Python
 
 ## What it does
 - Takes a topic, your name and friend's name as input
